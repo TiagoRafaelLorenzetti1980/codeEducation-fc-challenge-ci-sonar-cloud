@@ -1,4 +1,5 @@
-name: codeEducation-ci-sonarcloud
+name: ccodeEducation-fc-challenge-ci-sonar-cloud
+
 on:
   push:
     branches:
