@@ -1,4 +1,4 @@
-name: ccodeEducation-fc-challenge-ci-sonar-cloud
+name: codeEducation-fc-challenge-ci-sonar-cloud
 
 on:
   push:
